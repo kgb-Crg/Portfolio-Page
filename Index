@@ -1,12 +1,29 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>My Services</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <h1>Boateng Tech Services</h1>
-    <p>Aiding small businesses  with setting up websites, forms, and automations.</p>
-    <p>Email me: <a href="malitokagyenimb17@gmail.com">kagyenimb17@gmail.com</a></p>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Boateng Tech Services Tech Services</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>BoatengT LTD</h1>
+    <p class="subtitle">Practical tech help for small businesses & freelancers</p>
+
+    <div class="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>🔧 Set up booking systems, email, and forms</li>
+        <li>📊 Automate spreadsheets & reports (Excel, Google Sheets)</li>
+        <li>🌐 Fix or update websites </li>
+      </ul>
+    </div>
+
+    <div class="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:kagyenimb17@gmail.com">kagyenimb17@gmail.com</a></p>
+    </div>
+  </div>
+</body>
 </html>
